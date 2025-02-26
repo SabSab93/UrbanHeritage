@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "node": "^18.20.7"
+  },
+  "scripts": {
+    "dev": "node index.js"
   }
 }
